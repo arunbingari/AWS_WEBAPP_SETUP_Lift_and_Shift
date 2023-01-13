@@ -2,4 +2,5 @@
 AWS WEBAPP SETUP using Lift_and_Shift strategy
 
 Architecture of Project
-(https://user-images.githubusercontent.com/74285496/212277275-cb6504b9-461c-47c3-b88f-6ffd482106cb.jpg)
+
+![Architecture of Project](https://user-images.githubusercontent.com/74285496/212277845-a8ad62f0-40dc-495c-b59a-470b07c76c0b.jpg)
